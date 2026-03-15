@@ -1,0 +1,82 @@
+[
+{
+ "query": "How do global economic conditions affect company operations?",
+ "relevant_chunks": [{"company_name": "AAPL", "chunk_id": 0}]
+},
+{
+ "query": "What risks arise from disruptions in the supply chain?",
+ "relevant_chunks": [{"company_name": "AAPL", "chunk_id": 1}]
+},
+{
+ "query": "How can geopolitical tensions or trade disputes impact companies?",
+ "relevant_chunks": [{"company_name": "AAPL", "chunk_id": 1}]
+},
+{
+ "query": "What macroeconomic factors such as inflation or unemployment can affect businesses?",
+ "relevant_chunks": [{"company_name": "AAPL", "chunk_id": 0}]
+},
+{
+ "query": "What risks arise from intense competition in the technology industry?",
+ "relevant_chunks": [{"company_name": "AAPL", "chunk_id": 3}]
+},
+{
+ "query": "How does competition affect a company's ability to maintain market share?",
+ "relevant_chunks": [{"company_name": "AAPL", "chunk_id": 4}]
+},
+{
+ "query": "How could cybersecurity threats impact company operations?",
+ "relevant_chunks": [{"company_name": "AAPL", "chunk_id": 2}]
+},
+{
+ "query": "What risks arise from cyber attacks or data security breaches?",
+ "relevant_chunks": [{"company_name": "AAPL", "chunk_id": 11}]
+},
+{
+ "query": "How might government regulations affect company operations?",
+ "relevant_chunks": [{"company_name": "AAPL", "chunk_id": 15}]
+},
+{
+ "query": "What risks arise from privacy regulations or data protection laws?",
+ "relevant_chunks": [{"company_name": "AAPL", "chunk_id": 18}]
+},
+{
+ "query": "How do changes in currency exchange rates affect international companies?",
+ "relevant_chunks": [{"company_name": "AAPL", "chunk_id": 19}]
+},
+{
+ "query": "How can rising interest rates affect corporate financial performance?",
+ "relevant_chunks": [{"company_name": "AAPL", "chunk_id": 20}]
+},
+{
+ "query": "What risks do technology companies face in competitive markets?",
+ "relevant_chunks": [{"company_name": "MICROSOFT", "chunk_id": 0}]
+},
+{
+ "query": "What risks arise from competition in online platforms and digital services?",
+ "relevant_chunks": [{"company_name": "GOOG", "chunk_id": 0}]
+},
+{
+ "query": "What risks are associated with regulatory oversight of technology companies?",
+ "relevant_chunks": [{"company_name": "GOOG", "chunk_id": 2}]
+},
+{
+ "query": "How does competition affect companies in the semiconductor industry?",
+ "relevant_chunks": [{"company_name": "NVDA", "chunk_id": 0}]
+},
+{
+ "query": "What risks arise from competition in streaming services?",
+ "relevant_chunks": [{"company_name": "NFLX", "chunk_id": 9}]
+},
+{
+ "query": "What regulatory risks affect streaming or digital media companies?",
+ "relevant_chunks": [{"company_name": "NFLX", "chunk_id": 5}]
+},
+{
+ "query": "How can regulatory changes affect enterprise software companies?",
+ "relevant_chunks": [{"company_name": "ORACLE", "chunk_id": 0}]
+},
+{
+ "query": "What risks arise from government regulation in ride-sharing platforms?",
+ "relevant_chunks": [{"company_name": "UBER", "chunk_id": 2}]
+}
+]
