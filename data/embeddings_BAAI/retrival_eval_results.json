@@ -1,0 +1,17 @@
+[
+  {
+    "model": "BGE",
+    "recall_at_20": 0.55,
+    "mrr": 0.24361111111111108
+  },
+  {
+    "model": "BGE and Max Marginal Relevance Search",
+    "recall_at_20": 0.55,
+    "mrr": 0.20321789321789324
+  },
+  {
+    "model": "BGE + CrossEncoder rerank",
+    "recall_at_25": 0.55,
+    "mrr": 0.3458333333333333
+  }
+]
